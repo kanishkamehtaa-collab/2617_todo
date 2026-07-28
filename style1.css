@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color: pink;
+    background-color: palevioletred;
+}
+p{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-line: underline;
+}
+div{
+    text-align: center;
+}
